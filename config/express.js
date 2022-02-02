@@ -13,3 +13,5 @@ consign({ cwd: 'app' })
     .into(app);
 
 module.exports = app;
+
+//api_secret = <your_secret_api_key>
